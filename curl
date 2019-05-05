@@ -1,0 +1,1 @@
+curl --header "Content-Type: application/json" --request POST --data "{"user": {"email": "Shivasorab@gmail.com", password: "shiva123"}}" \ http://ef1c91c1.ngrok.io/sessions
